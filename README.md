@@ -4,5 +4,7 @@ Simple Python project that provides information about stock market prices and th
 
 All the information provided and handled is consumed from FinnHub - a recognized stock market API (https://finnhub.io/).
 
+In order to run the project and the tests it is necessary to get a valid api key from https://finnhub.io/.
+
 
 <img width="1280" alt="Captura de Tela 2022-05-11 às 22 56 38" src="https://user-images.githubusercontent.com/70039371/167976619-266aa313-6c39-42da-8947-40000562fe85.png">
